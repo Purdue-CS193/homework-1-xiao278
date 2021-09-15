@@ -41,5 +41,9 @@ ls ..
 '
 Type your vim/nano customizations below:
 
+syntax on
+set number
+set foldmethod=indent
+set autoindent
 
 '
